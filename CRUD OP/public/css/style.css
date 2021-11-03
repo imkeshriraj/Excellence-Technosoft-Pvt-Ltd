@@ -1,0 +1,31 @@
+.success {
+    background: #198754 !important;
+    color: #fff !important;
+}
+
+.danger {
+    background: #dc35459e !important;
+    color: #fff !important;
+}
+.error{
+    color: red;
+}
+.actBtn{
+    display: inline-flex;
+}
+th,td{
+    text-align: center;
+}
+@media (min-width: 576px)
+{
+.modal-dialog {
+    max-width: 42rem;
+    margin: 1.75rem auto;
+}
+} 
+
+/* .college_life {
+
+    friendship:100%;
+    
+} */
